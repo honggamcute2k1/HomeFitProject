@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "title": "Suy dinh dưỡng",
+      "level": 1,
+      "reason": [
+        "- Thiếu năng lượng khẩu phần.",
+        "- Hoạt động tiêu hao nhiều năng lượng nhưng không được bù đắp năng lượng đã tiêu hào một cách kịp thời."
+      ],
+      "fix": [
+        "- Chế độ ăn uống hợp lí, lành mạnh là luôn đáp ứng được nhu cầu năng lượng cơ thể đầy đủ các nhóm chất bao gồm protein, lipid, glucid, khoáng chất vitamin.",
+        "- Chế độ làm việc và nghỉ ngơi hợp lí.",
+        "- Rèn luyện thể dục, thể thao"
+      ]
+    },
+    {
+      "title": "Suy dinh dưỡng",
+      "level": 2,
+      "reason": [
+        "- Thiếu năng lượng khẩu phần.",
+        "- Hoạt động tiêu hao nhiều năng lượng nhưng không được bù đắp năng lượng đã tiêu hào một cách kịp thời."
+      ],
+      "fix": [
+        "- Chế độ ăn uống hợp lí, lành mạnh là luôn đáp ứng được nhu cầu năng lượng cơ thể đầy đủ các nhóm chất bao gồm protein, lipid, glucid, khoáng chất vitamin.",
+        "- Chế độ làm việc và nghỉ ngơi hợp lí.",
+        "- Rèn luyện thể dục, thể thao"
+      ]
+    },
+    {
+      "title": "Suy dinh dưỡng",
+      "level": 3,
+      "reason": [
+        "- Thiếu năng lượng khẩu phần.",
+        "- Hoạt động tiêu hao nhiều năng lượng nhưng không được bù đắp năng lượng đã tiêu hào một cách kịp thời."
+      ],
+      "fix": [
+        "- Chế độ ăn uống hợp lí, lành mạnh là luôn đáp ứng được nhu cầu năng lượng cơ thể đầy đủ các nhóm chất bao gồm protein, lipid, glucid, khoáng chất vitamin.",
+        "- Chế độ làm việc và nghỉ ngơi hợp lí.",
+        "- Rèn luyện thể dục, thể thao"
+      ]
+    },
+    {
+      "title": "Bình thường",
+      "level": 4,
+      "reason": null,
+      "fix": null
+    },
+    {
+      "title": "Thừa cân",
+      "level": 5,
+      "reason": [
+        "- Chế độ ăn uống chưa hợp lí. Trong khẩu phần ăn có quá nhiều chất béo, nhiều đường, nhiều muối, thức ăn nhanh, đồ uống có gas.",
+        "- Căng thẳng, lo âu",
+        "- Lười vận động",
+        "- Ngoài ra 1 số nguyên nhân khách quan khác như yếu tố di truyền, rối loạn chuyển hóa,…"
+      ],
+      "fix": [
+        "- Giảm số năng lượng từ thực phẩm đưa vào cơ thể, nhưng vẫn đảm bảo đầy đủ chất dinh dưỡng.",
+        "- Nên ăn nhiều loại hạt ngũ cốc, trái cây, rau..Nhiều người khuyên nên ăn vừa phải carbohydrat, khá đủ đạm, thêm một ít chất xơ để bụng mau no và thức ăn chậm ra khỏi dạ dày.",
+        "- Không dùng quá 30% chất béo trên tổng số năng lượng một ngày, từ 20 đến 25% là tốt nhất.",
+        "- Chia đều phần ăn của một ngày cho ba bữa ăn, để mỗi bữa có ít nhất 25% tổng số năng lượng mỗi ngày.",
+        "- Món tráng miệng cũng chỉ cần giới hạn trong mức độ hợp lý chứ không cần thiết phải bỏ hẳn, chẳng hạn như một ly trái cây, một miếng bánh ngọt nhỏ.",
+        "- Cần phải tuân thủ nghiêm nhặt chế độ dinh dưỡng đã được bác sĩ hướng dẫn đề ra. Ăn nhiều loại thực phẩm đa dạng, cân bằng theo nhu cầu năng lượng và ăn với mức vừa phải.",
+        "- Ghi rõ thành một bảng kê những thức ăn nên tránh như rượu, dầu salad, món ăn tráng miệng nhiều đường, béo… và luôn luôn ghi nhớ để tránh.",
+        "- Không nên xem tivi khi đang ăn vì có thể sẽ theo thói quen ăn quá nhiều.",
+        "- Tập thể dục thể thao rèn luyện sức khỏe thường xuyên."
+      ]
+    },
+    {
+      "title": "Béo phì",
+      "level": 6,
+      "reason": [
+        "- Chế độ ăn uống chưa hợp lí. Trong khẩu phần ăn có quá nhiều chất béo, nhiều đường, nhiều muối, thức ăn nhanh, đồ uống có gas.",
+        "- Căng thẳng, lo âu",
+        "- Lười vận động",
+        "- Ngoài ra 1 số nguyên nhân khách quan khác như yếu tố di truyền, rối loạn chuyển hóa,…"
+      ],
+      "fix": [
+        "- Giảm số năng lượng từ thực phẩm đưa vào cơ thể, nhưng vẫn đảm bảo đầy đủ chất dinh dưỡng.",
+        "- Nên ăn nhiều loại hạt ngũ cốc, trái cây, rau..Nhiều người khuyên nên ăn vừa phải carbohydrat, khá đủ đạm, thêm một ít chất xơ để bụng mau no và thức ăn chậm ra khỏi dạ dày.",
+        "- Không dùng quá 30% chất béo trên tổng số năng lượng một ngày, từ 20 đến 25% là tốt nhất.",
+        "- Chia đều phần ăn của một ngày cho ba bữa ăn, để mỗi bữa có ít nhất 25% tổng số năng lượng mỗi ngày.",
+        "- Món tráng miệng cũng chỉ cần giới hạn trong mức độ hợp lý chứ không cần thiết phải bỏ hẳn, chẳng hạn như một ly trái cây, một miếng bánh ngọt nhỏ.",
+        "- Cần phải tuân thủ nghiêm nhặt chế độ dinh dưỡng đã được bác sĩ hướng dẫn đề ra. Ăn nhiều loại thực phẩm đa dạng, cân bằng theo nhu cầu năng lượng và ăn với mức vừa phải.",
+        "- Ghi rõ thành một bảng kê những thức ăn nên tránh như rượu, dầu salad, món ăn tráng miệng nhiều đường, béo… và luôn luôn ghi nhớ để tránh.",
+        "- Không nên xem tivi khi đang ăn vì có thể sẽ theo thói quen ăn quá nhiều.",
+        "- Tập thể dục thể thao rèn luyện sức khỏe thường xuyên."
+      ]
+    },
+    {
+      "title": "Béo phì",
+      "level": 7,
+      "reason": [
+        "- Chế độ ăn uống chưa hợp lí. Trong khẩu phần ăn có quá nhiều chất béo, nhiều đường, nhiều muối, thức ăn nhanh, đồ uống có gas.",
+        "- Căng thẳng, lo âu",
+        "- Lười vận động",
+        "- Ngoài ra 1 số nguyên nhân khách quan khác như yếu tố di truyền, rối loạn chuyển hóa,…"
+      ],
+      "fix": [
+        "- Giảm số năng lượng từ thực phẩm đưa vào cơ thể, nhưng vẫn đảm bảo đầy đủ chất dinh dưỡng.",
+        "- Nên ăn nhiều loại hạt ngũ cốc, trái cây, rau..Nhiều người khuyên nên ăn vừa phải carbohydrat, khá đủ đạm, thêm một ít chất xơ để bụng mau no và thức ăn chậm ra khỏi dạ dày.",
+        "- Không dùng quá 30% chất béo trên tổng số năng lượng một ngày, từ 20 đến 25% là tốt nhất.",
+        "- Chia đều phần ăn của một ngày cho ba bữa ăn, để mỗi bữa có ít nhất 25% tổng số năng lượng mỗi ngày.",
+        "- Món tráng miệng cũng chỉ cần giới hạn trong mức độ hợp lý chứ không cần thiết phải bỏ hẳn, chẳng hạn như một ly trái cây, một miếng bánh ngọt nhỏ.",
+        "- Cần phải tuân thủ nghiêm nhặt chế độ dinh dưỡng đã được bác sĩ hướng dẫn đề ra. Ăn nhiều loại thực phẩm đa dạng, cân bằng theo nhu cầu năng lượng và ăn với mức vừa phải.",
+        "- Ghi rõ thành một bảng kê những thức ăn nên tránh như rượu, dầu salad, món ăn tráng miệng nhiều đường, béo… và luôn luôn ghi nhớ để tránh.",
+        "- Không nên xem tivi khi đang ăn vì có thể sẽ theo thói quen ăn quá nhiều.",
+        "- Tập thể dục thể thao rèn luyện sức khỏe thường xuyên."
+      ]
+    },
+    {
+      "title": "Béo phì",
+      "level": 8,
+      "reason": [
+        "- Chế độ ăn uống chưa hợp lí. Trong khẩu phần ăn có quá nhiều chất béo, nhiều đường, nhiều muối, thức ăn nhanh, đồ uống có gas.",
+        "- Căng thẳng, lo âu",
+        "- Lười vận động",
+        "- Ngoài ra 1 số nguyên nhân khách quan khác như yếu tố di truyền, rối loạn chuyển hóa,…"
+      ],
+      "fix": [
+        "- Giảm số năng lượng từ thực phẩm đưa vào cơ thể, nhưng vẫn đảm bảo đầy đủ chất dinh dưỡng.",
+        "- Nên ăn nhiều loại hạt ngũ cốc, trái cây, rau..Nhiều người khuyên nên ăn vừa phải carbohydrat, khá đủ đạm, thêm một ít chất xơ để bụng mau no và thức ăn chậm ra khỏi dạ dày.",
+        "- Không dùng quá 30% chất béo trên tổng số năng lượng một ngày, từ 20 đến 25% là tốt nhất.",
+        "- Chia đều phần ăn của một ngày cho ba bữa ăn, để mỗi bữa có ít nhất 25% tổng số năng lượng mỗi ngày.",
+        "- Món tráng miệng cũng chỉ cần giới hạn trong mức độ hợp lý chứ không cần thiết phải bỏ hẳn, chẳng hạn như một ly trái cây, một miếng bánh ngọt nhỏ.",
+        "- Cần phải tuân thủ nghiêm nhặt chế độ dinh dưỡng đã được bác sĩ hướng dẫn đề ra. Ăn nhiều loại thực phẩm đa dạng, cân bằng theo nhu cầu năng lượng và ăn với mức vừa phải.",
+        "- Ghi rõ thành một bảng kê những thức ăn nên tránh như rượu, dầu salad, món ăn tráng miệng nhiều đường, béo… và luôn luôn ghi nhớ để tránh.",
+        "- Không nên xem tivi khi đang ăn vì có thể sẽ theo thói quen ăn quá nhiều.",
+        "- Tập thể dục thể thao rèn luyện sức khỏe thường xuyên."
+      ]
+    }
+  ]
+}

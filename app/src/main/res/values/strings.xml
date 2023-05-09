@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Home FIT</string>
+
+    <!--Bottom menu-->
+    <string name="bottom_menu_txt_btn_first">Tập luyện</string>
+    <string name="bottom_menu_txt_btn_second">Báo cáo</string>
+    <string name="bottom_menu_txt_btn_third">Hồ sơ</string>
+
+    <!--Practice-->
+    <string name="practice_title">THỬ THÁCH TẬP LUYỆN</string>
+
+    <string name="content">Thật xuất sắc bạn đã tập %s ngày liên tiếp rồi đó.</string>
+</resources>

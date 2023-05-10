@@ -30,7 +30,7 @@ class VideoDetailActivity : BaseActivity<VideoDetailViewModel>() {
 
 
     companion object {
-        const val VALUE_TIMER = 10000L
+        const val VALUE_TIMER = 30000L
         const val STEP_COUNT_DOWN = 1000L
         const val KEY_TOPIC_DETAIL = "KEY_TOPIC_DETAIL"
     }
@@ -44,6 +44,7 @@ class VideoDetailActivity : BaseActivity<VideoDetailViewModel>() {
 
             override fun onFinish() {
                 txtTimer?.text = "0"
+                btnPlay.setImageResource(R.drawable.ic_play);
             }
         }.start()
     }
@@ -64,9 +65,11 @@ class VideoDetailActivity : BaseActivity<VideoDetailViewModel>() {
             if (isPlay) {
                 player?.play()
                 start(currentTimer)
+                btnPlay.setImageResource(R.drawable.ic_pause);
             } else {
                 cancel()
                 player?.pause()
+                btnPlay.setImageResource(R.drawable.ic_play);
             }
         }
 
@@ -78,8 +81,10 @@ class VideoDetailActivity : BaseActivity<VideoDetailViewModel>() {
             audio = !audio
             if (audio) {
                 player?.unMute()
+                btnAudio.setImageResource(R.drawable.ic_volume_up);
             } else {
                 player?.mute()
+                btnAudio.setImageResource(R.drawable.ic_volume_off);
             }
         }
 
@@ -96,7 +101,7 @@ class VideoDetailActivity : BaseActivity<VideoDetailViewModel>() {
     private fun setupLoadVideo() {
         cancel()
         currentTimer = VALUE_TIMER
-        txtTimer.text = "10"
+        txtTimer.text = "30"
         topicDetailModel?.let { detail ->
             val videoId = detail.idVideo
             isPlay = false

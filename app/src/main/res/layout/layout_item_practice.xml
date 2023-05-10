@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/itemPractice"
@@ -16,19 +17,20 @@
         <ImageView
             android:id="@+id/imageItemPractice"
             android:layout_width="match_parent"
-            android:layout_height="112dp"
+            android:layout_height="125dp"
             android:scaleType="centerCrop"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="0dp" />
 
         <TextView
             android:id="@+id/txtItemPractice"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="30dp"
-            android:layout_marginTop="5dp"
-            android:textSize="16dp"
+            android:layout_marginTop="10dp"
             android:textColor="@color/black"
-            android:textStyle="bold"
+            android:textSize="17dp"
+            android:textStyle="italic|bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>

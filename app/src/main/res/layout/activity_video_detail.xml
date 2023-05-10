@@ -30,14 +30,14 @@
             android:textSize="26dp" />
 
         <ImageView
+            android:id="@+id/btnAudio"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:id="@+id/btnAudio"
             android:layout_gravity="center"
             android:paddingVertical="16dp"
             android:paddingEnd="28dp"
-            android:src="@drawable/ic_speak" />
+            android:src="@drawable/ic_volume_up" />
     </RelativeLayout>
 
     <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
@@ -66,7 +66,7 @@
         android:textColor="@color/white"
         android:textSize="64dp"
         android:textStyle="bold"
-        android:text="10"
+        android:text="30"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtNameTopicDetail" />

@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:padding="7dp"
-            android:src="@drawable/ic_arrow_left"
+            android:src="@drawable/ic_back"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:text="LỜI KHUYÊN"
             android:textColor="@color/white"
-            android:textSize="20sp"
+            android:textSize="30sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toEndOf="@+id/imgBack"
             app:layout_constraintTop_toTopOf="parent" />
@@ -41,9 +41,8 @@
             android:id="@+id/txtAdviseDetail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="15dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="20dp"
+            android:layout_margin="20dp"
+            android:textStyle="italic"
             android:textColor="@color/white"
             android:textSize="20dp" />
     </androidx.core.widget.NestedScrollView>

@@ -126,7 +126,7 @@
             android:layout_height="wrap_content"
             android:backgroundTint="@color/white"
             android:textColor="@color/white"
-            android:inputType="phone"
+            android:inputType="number"
             android:textSize="18sp" />
     </LinearLayout>
 

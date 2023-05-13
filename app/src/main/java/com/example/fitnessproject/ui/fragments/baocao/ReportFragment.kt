@@ -370,8 +370,8 @@ class ReportFragment : BaseFragment<ReportViewModel>() {
         val set1 = LineDataSet(values, "DataSet 1")
         val set2 = LineDataSet(valueFakes, "DataSet 2")
         lineChart?.legend?.isEnabled = false
-        set1.color = Color.WHITE
-        set1.setCircleColor(Color.WHITE)
+        set1.color = Color.YELLOW
+        set1.setCircleColor(Color.YELLOW)
         set1.lineWidth = 1f
         set1.circleRadius = 3.8F
         set1.setDrawCircleHole(false)
